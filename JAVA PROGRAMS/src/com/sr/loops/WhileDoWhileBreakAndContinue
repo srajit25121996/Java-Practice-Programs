@@ -1,0 +1,10 @@
+1. The while loop checks the condition at the start before executing the block.
+2. With doWhile loop the code block is executed at least once and then the condition is checked.
+3. Be careful with the condition, it is easy to end up with endless loop on other words a loop that never ends or to end up with loop that never executes.
+
+[Tip:always check your condition/expression.]
+//continue and break statement
+
+1. We can interrupt the the loop by using a continue and/or break statement.
+2. With the continue keyword the loop will bypass the part of code block that is below the continue keyword and continue with the next iteration.
+3. With the break keyword we can execute the loop depending on the condition that we are checking.
